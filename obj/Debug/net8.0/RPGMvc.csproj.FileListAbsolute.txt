@@ -34,3 +34,4 @@ D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\refint\RPGMvc.dll
 D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\RPGMvc.pdb
 D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\RPGMvc.genruntimeconfig.cache
 D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\ref\RPGMvc.dll
+D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\RPGMvc.sourcelink.json
