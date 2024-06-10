@@ -35,3 +35,40 @@ D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\RPGMvc.pdb
 D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\RPGMvc.genruntimeconfig.cache
 D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\ref\RPGMvc.dll
 D:\TEJ\DS\RPGMvc\obj\Debug\net8.0\RPGMvc.sourcelink.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\RPGMvc.staticwebassets.runtime.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\RPGMvc.exe
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\RPGMvc.deps.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\RPGMvc.runtimeconfig.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\RPGMvc.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\RPGMvc.pdb
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.csproj.AssemblyReference.cache
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.AssemblyInfoInputs.cache
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.AssemblyInfo.cs
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.RazorAssemblyInfo.cache
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.RazorAssemblyInfo.cs
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.sourcelink.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets\msbuild.RPGMvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.RPGMvc.props
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RPGMvc.props
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RPGMvc.props
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\scopedcss\bundle\RPGMvc.styles.css
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\scopedcss\projectbundle\RPGMvc.bundle.scp.css
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.csproj.Up2Date
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\refint\RPGMvc.dll
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.pdb
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\RPGMvc.genruntimeconfig.cache
+C:\Users\user\Documents\etec ds\2MODULO\ds\RPGMvc\DS-RPGMvc\obj\Debug\net8.0\ref\RPGMvc.dll

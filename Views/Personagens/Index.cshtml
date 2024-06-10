@@ -45,5 +45,17 @@
                     
             </td>
         </tr>
+
+    @Html.ActionLink("Clique aqui para um embate com armas!!", "Index", "Disputas",
+        null, new { @class = "btn btn-warning"})
+
+    @Html.ActionLink("Clique aqui para um embate com habilidades!!", "IndexHabilidades", "Disputas",
+        null, new { @class = "btn btn-dark"})
+    }
+     @Html.ActionLink("Clique aqui para um embate cem grupo!!", "DisputaGeral", "Disputas",
+        null, new { @class = "btn btn-danger"})
+    }
+     @Html.ActionLink("Zerar ranking e restaurar pontos de voda", "ZerarRankingRestaurarVidas", "Personagens",
+        null, new { @class = "btn btn-secondary", onclick = "return confirm('Deseja realmente realizar esta ação?');"})
     }
 </table>
